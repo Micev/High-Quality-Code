@@ -1,0 +1,34 @@
+[
+  {
+    "code":"USD",
+    "rate":1.0
+  },
+  {
+    "code":"EUR",
+    "rate":0.7992
+  },
+  {
+    "code":"INR",
+    "rate":55.49
+  },
+  {
+    "code":"AUD",
+    "rate":0.96066
+  },
+  {
+    "code":"CAD",
+    "rate":0.9917
+  },
+  {
+    "code":"ZAR",
+    "rate":8.3895
+  },
+  {
+    "code":"NZD",
+    "rate":1.23267
+  },
+  {
+    "code":"JPY",
+    "rate":78.675
+  }
+]
