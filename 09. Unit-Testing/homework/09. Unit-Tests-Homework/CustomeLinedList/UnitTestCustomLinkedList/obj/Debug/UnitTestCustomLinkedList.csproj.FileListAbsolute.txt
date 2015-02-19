@@ -1,0 +1,5 @@
+D:\Documents\Softuni\High Quality Code\09. Unit-Testing\homework\09. Unit-Tests-Homework\CustomeLinedList\UnitTestCustomLinkedList\bin\Debug\UnitTestCustomLinkedList.dll
+D:\Documents\Softuni\High Quality Code\09. Unit-Testing\homework\09. Unit-Tests-Homework\CustomeLinedList\UnitTestCustomLinkedList\bin\Debug\UnitTestCustomLinkedList.pdb
+D:\Documents\Softuni\High Quality Code\09. Unit-Testing\homework\09. Unit-Tests-Homework\CustomeLinedList\UnitTestCustomLinkedList\obj\Debug\UnitTestCustomLinkedList.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\High Quality Code\09. Unit-Testing\homework\09. Unit-Tests-Homework\CustomeLinedList\UnitTestCustomLinkedList\obj\Debug\UnitTestCustomLinkedList.dll
+D:\Documents\Softuni\High Quality Code\09. Unit-Testing\homework\09. Unit-Tests-Homework\CustomeLinedList\UnitTestCustomLinkedList\obj\Debug\UnitTestCustomLinkedList.pdb
