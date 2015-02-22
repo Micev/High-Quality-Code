@@ -1,0 +1,10 @@
+D:\SoftUni SVN\High Quality Code\September-2014\12. Defensive-Programming-Homework\Assertions-and-Exceptions-Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+D:\SoftUni SVN\High Quality Code\September-2014\12. Defensive-Programming-Homework\Assertions-and-Exceptions-Homework\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+D:\SoftUni SVN\High Quality Code\September-2014\12. Defensive-Programming-Homework\Assertions-and-Exceptions-Homework\Exceptions-Homework\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+D:\SoftUni SVN\High Quality Code\September-2014\12. Defensive-Programming-Homework\Assertions-and-Exceptions-Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+D:\SoftUni SVN\High Quality Code\September-2014\12. Defensive-Programming-Homework\Assertions-and-Exceptions-Homework\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb
+D:\SoftUni SVN\High Quality Code\September-2014\12. Defensive-Programming-Homework\Assertions-and-Exceptions\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+D:\SoftUni SVN\High Quality Code\September-2014\12. Defensive-Programming-Homework\Assertions-and-Exceptions\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb
+D:\SoftUni SVN\High Quality Code\September-2014\12. Defensive-Programming-Homework\Assertions-and-Exceptions\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+D:\SoftUni SVN\High Quality Code\September-2014\12. Defensive-Programming-Homework\Assertions-and-Exceptions\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+D:\SoftUni SVN\High Quality Code\September-2014\12. Defensive-Programming-Homework\Assertions-and-Exceptions\Exceptions-Homework\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
