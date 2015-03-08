@@ -1,0 +1,1 @@
+D:\Documents\Softuni\High Quality Code\15. Code-Tuning-and-Optimization\homework\15. Code-Optimization-Homework\Operations Performance\MathematicPerformance\bin\Debug\MathematicPerformance.exe.config

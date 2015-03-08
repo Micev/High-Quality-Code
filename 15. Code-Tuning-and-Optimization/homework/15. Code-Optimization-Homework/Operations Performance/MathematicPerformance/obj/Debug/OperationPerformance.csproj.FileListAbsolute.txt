@@ -1,0 +1,6 @@
+D:\Documents\Softuni\High Quality Code\15. Code-Tuning-and-Optimization\homework\15. Code-Optimization-Homework\Operations Performance\MathematicPerformance\obj\Debug\OperationPerformance.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\High Quality Code\15. Code-Tuning-and-Optimization\homework\15. Code-Optimization-Homework\Operations Performance\MathematicPerformance\bin\Debug\MathematicPerformance.exe.config
+D:\Documents\Softuni\High Quality Code\15. Code-Tuning-and-Optimization\homework\15. Code-Optimization-Homework\Operations Performance\MathematicPerformance\bin\Debug\MathematicPerformance.exe
+D:\Documents\Softuni\High Quality Code\15. Code-Tuning-and-Optimization\homework\15. Code-Optimization-Homework\Operations Performance\MathematicPerformance\bin\Debug\MathematicPerformance.pdb
+D:\Documents\Softuni\High Quality Code\15. Code-Tuning-and-Optimization\homework\15. Code-Optimization-Homework\Operations Performance\MathematicPerformance\obj\Debug\MathematicPerformance.exe
+D:\Documents\Softuni\High Quality Code\15. Code-Tuning-and-Optimization\homework\15. Code-Optimization-Homework\Operations Performance\MathematicPerformance\obj\Debug\MathematicPerformance.pdb
